@@ -26,7 +26,7 @@ Tutti i componenti fondamentali del progetto sono organizzati e pronti per la co
 
 Puoi visualizzare un'anteprima rapida e dinamica delle slide principali direttamente da qui. Cliccando sulla GIF o espandendo il menu sottostante, avrai accesso ai punti salienti affrontati durante la presentazione.
 
-[![Anteprima Presentazione](img/presentazione_preview.gif)](./Presentazione_25-05_636697.pdf)
+[![Anteprima Presentazione](presentazione_preview.gif)](./Presentazione_25-05_636697.pdf)
 *Clicca sulla GIF per aprire il documento PDF completo delle slide.*
 
 <details>
